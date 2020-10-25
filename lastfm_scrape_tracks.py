@@ -81,9 +81,3 @@ def getTracks(user, maxPagination=None):
             tracks.append(newTrack)
 
     return tracks
-
-
-
-                
-
-
